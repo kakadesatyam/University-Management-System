@@ -7,7 +7,11 @@ Database: MySQL
 IDE: IntelliJ IDEA
 
 Features
+
 ✔ Add, view, update student and faculty details
+
 ✔ Centralized database for secure data management
+
 ✔ Interactive GUI using Java Swing & AWT
+
 ✔ Smooth and user-friendly experience
